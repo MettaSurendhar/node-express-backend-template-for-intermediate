@@ -1,4 +1,4 @@
-# backend-template
+# Backend-Template
 
 This repository provides a template for backend projects. It includes essential configurations, examples, and guidelines to help you set up your backend project efficiently.
 
@@ -55,7 +55,7 @@ See the [Usage Guide](usage.md) for detailed instructions on how to use this tem
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/ctf-tech-2024/backend-template/-/settings/integrations)
+- [ ] [Set up project integrations](https://docs.github.com/en/get-started/exploring-integrations/about-building-integrations)
 
 ## Contributing
 
