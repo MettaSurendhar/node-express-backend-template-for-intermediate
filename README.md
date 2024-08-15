@@ -19,16 +19,16 @@ This repository contains the following folders and files:
 
 For more detailed information on each folder and file, please refer to the corresponding README pages linked below:
 
-- [Config README](Config/README.md)
-- [Controllers README](Controllers/README.md)
-- [Keys README](Keys/README.md)
-- [Middleware README](Middleware/README.md)
-- [Migrations README](Migrations/README.md)
-- [Models README](Models/README.md)
-- [Routes README](Routes/README.md)
-- [Seeders README](Seeders/README.md)
-- [Utils README](Utils/README.md)
-- [Validators README](Validators/README.md)
+- [Config README](config/README.md)
+- [Controllers README](controllers/README.md)
+- [Keys README](keys/README.md)
+- [Middleware README](middleware/README.md)
+- [Migrations README](migrations/README.md)
+- [Models README](models/README.md)
+- [Routes README](routes/README.md)
+- [Seeders README](seeders/README.md)
+- [Utils README](utils/README.md)
+- [Validators README](validators/README.md)
 
 ## Getting Started
 
