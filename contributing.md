@@ -24,4 +24,4 @@ To set up your development environment, follow these steps:
 
 ## Reporting Issues
 
-If you find any bugs or issues, please report them via the [issue tracker](https://github.com/your-repo/issues).
+If you find any bugs or issues, please report them via the [issue tracker](https://github.com/node-express-backend-template-for-intermediate/issues).
