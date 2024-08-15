@@ -1,4 +1,4 @@
-# Backend-Template
+# Node Express Backend Template for Intermediates
 
 This repository provides a comprehensive template for backend projects, designed to streamline the setup process and ensure best practices are followed. It includes essential configurations, examples, and guidelines to help you set up your backend project efficiently.
 
