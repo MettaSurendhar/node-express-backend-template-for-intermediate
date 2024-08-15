@@ -16,3 +16,20 @@ Use GitHub Actions for continuous integration and deployment.
 - [ ] [Analyze your code for vulnerabilities with GitHub's Security features](https://docs.github.com/en/code-security/code-scanning/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning)
 - [ ] [Deploy to cloud services using GitHub Actions](https://docs.github.com/en/actions/deployment/about-deployment-with-github-actions)
 - [ ] [Set up environments](https://docs.github.com/en/actions/deployment/targeting-different-environments/using-environments-for-deployment)
+
+## Using the Features
+
+### Authentication 
+- The template includes basic authentication setup. You can find the authentication middleware in the middleware directory. Configure your authentication logic as needed.
+### Database Integration 
+- The template uses Sequelize ORM for database interactions. Define your models in the models directory and configure your database connection in the config directory.
+### Validation 
+- Use the pre-built validation middleware in the validators directory to validate incoming requests. This ensures that your application handles data consistently and securely.
+
+## Examples
+
+The Usage Guide includes several examples to help you understand how to use the template effectively:
+
+- **Example 1**: Setting up a new route with validation and authentication.
+- **Example 2**: Integrating a new database model and performing CRUD operations.
+- **Example 3**: Configuring environment variables for different stages of development.
