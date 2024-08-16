@@ -6,7 +6,7 @@ This repository provides a comprehensive template for backend projects, designed
 
 This template is ideal for ***intermediate students*** who have a basic understanding of backend development and want to enhance their skills by working on more structured projects. It is also suitable for ***beginners*** who are eager to learn and need a solid foundation to start with.
 
-For beginners, we recommend starting with our Beginner's Guide to get acquainted with the basics before diving into this template.
+For beginners, we recommend starting with our [Beginner's Backend Template](https://github.com/MettaSurendhar/node-express-backend-template-for-beginner) to get acquainted with the basics before diving into this template.
 
 ## Table of Contents
 
