@@ -85,7 +85,7 @@ For detailed instructions on how to use this template, including examples, pleas
   npm install
   ```
 
-3. Set Up Environment Variables: Create a `.env` file in the root directory and configure your environment variables as needed. Refer to the example.env file for guidance.
+3. Set Up Environment Variables: Create a `.env` file in the root directory and configure your environment variables as needed.
 
 ### Running the Application
 
