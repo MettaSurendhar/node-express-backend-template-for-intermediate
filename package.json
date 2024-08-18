@@ -1,6 +1,6 @@
 {
   "name": "node-express-backend-template-for-intermediate",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A Node.js and Expert.js backend template tailored for intermediate developers. It provides a structured foundation, essential tools, and best practices to help you build scalable and efficient applications with ease.",
   "main": "index.js",
   "scripts": {
