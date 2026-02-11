@@ -30,7 +30,9 @@ app.use((_req, res) => {
 const port = process.env.PORT || 5000;
 
 // Start the server and listen on the specified port
+const logger = require('winston')
 app.listen(port, () => {
 	// Log a message to the console when the server is listening
 	logger.info(`App Listening on port ${port}`);
 });
+
