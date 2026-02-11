@@ -10,9 +10,11 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // Enable CORS (Cross-Origin Resource Sharing) to allow cross-domain requests
+const cors = require('cors');
 app.use(cors());
 
 // Enable Helmet to secure the application with HTTP headers
+const helmet = require('helmet');
 app.use(helmet());
 
 // Disable the "X-Powered-By" header to prevent revealing the server technology
@@ -35,4 +37,5 @@ app.listen(port, () => {
 	// Log a message to the console when the server is listening
 	logger.info(`App Listening on port ${port}`);
 });
+
 
